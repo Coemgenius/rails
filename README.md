@@ -1,3 +1,5 @@
+Ici c'est Marseille ! 
+
 # Welcome to Rails
 
 ## What's Rails
